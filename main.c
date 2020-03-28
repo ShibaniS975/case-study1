@@ -1,0 +1,4 @@
+main()
+{
+	//sample base code
+}
